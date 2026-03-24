@@ -1,0 +1,9 @@
+.board-cell {
+    -fx-border-color: black;
+}
+
+.promotion-button {
+    -fx-font-size: 24px;
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: black;
+}
